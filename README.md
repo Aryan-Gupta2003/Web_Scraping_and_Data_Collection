@@ -26,6 +26,8 @@ Visualize the results using various plots.
 
 Build an interactive dashboard with Streamlit to explore the data.
 
+##
+
 ## Steps Involved
 
 ### Web Scraping:
@@ -47,3 +49,9 @@ Creating visualizations to represent the data graphically.
 ### Building the Dashboard:
 
 Using Streamlit to create an interactive dashboard.
+
+##
+
+## Contribution
+
+Feel free to open issues or submit pull requests for any improvements or bugs you find.
