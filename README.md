@@ -6,25 +6,15 @@ This project involves web scraping, data cleaning, and analysis of IMDb's top 25
 
 ## Objectives
 
-### 1. Web Scraping:
+1. **Web Scraping**: Extract data from IMDb's top 250 movies.
 
-Extract data from IMDb's top 250 movies.
+2. **Data Cleaning and Preprocessing**: Clean and preprocess the extracted data for analysis.
 
-### 2. Data Cleaning and Preprocessing:
+3. **Data Analysis**: Perform exploratory data analysis (EDA) to gain insights.
 
-Clean and preprocess the extracted data for analysis.
+4. **Data Visualization**: Visualize the results using various plots.
 
-### 3. Data Analysis:
-
-Perform exploratory data analysis (EDA) to gain insights.
-
-### 4. Data Visualization:
-
-Visualize the results using various plots.
-
-### 5. Interactive Dashboard:
-
-Build an interactive dashboard with Streamlit to explore the data.
+5. **Interactive Dashboard**: Build an interactive dashboard with Streamlit to explore the data.
 
 ##
 
