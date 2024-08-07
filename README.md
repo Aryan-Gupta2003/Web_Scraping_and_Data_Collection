@@ -20,25 +20,15 @@ This project involves web scraping, data cleaning, and analysis of IMDb's top 25
 
 ## Steps Involved
 
-### Web Scraping:
+- **Web Scraping**: Using Selenium to scrape data from IMDb.
 
-Using Selenium to scrape data from IMDb.
+- **Data Cleaning**: Cleaning the scraped data to remove inconsistencies and prepare it for analysis.
 
-### Data Cleaning:
+- **Data Analysis**: Analyzing the cleaned data to extract meaningful insights.
 
-Cleaning the scraped data to remove inconsistencies and prepare it for analysis.
+- **Data Visualization**: Creating visualizations to represent the data graphically.
 
-### Data Analysis:
-
-Analyzing the cleaned data to extract meaningful insights.
-
-### Data Visualization:
-
-Creating visualizations to represent the data graphically.
-
-### Building the Dashboard:
-
-Using Streamlit to create an interactive dashboard.
+- **Building the Dashboard**: Using Streamlit to create an interactive dashboard.
 
 ##
 
